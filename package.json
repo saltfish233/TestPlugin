@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "easyuseclipboardpluginsdk": "^0.0.2"
+    "easyuseclipboardpluginsdk": "^0.0.5"
   }
 }

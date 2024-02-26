@@ -1,5 +1,5 @@
-import a from "easyuseclipboardpluginsdk/dis"
+import { EUEvent } from "easyuseclipboardpluginsdk/dist/index.js"
 
-const b = new a("aa")
+const b = new EUEvent("aa")
 b.name = "11"
 console.log(b)

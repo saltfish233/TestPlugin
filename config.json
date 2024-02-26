@@ -1,0 +1,8 @@
+{
+    "meta": {
+        "name": "helloworld4",
+        "author": "tnxts",
+        "url": "tnxts.com",
+        "main": "./test/index.js"
+    }
+}
